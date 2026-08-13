@@ -8,3 +8,4 @@ Building **StudioDesk** — B2B SaaS for dev studios.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dev-mohsin&show_icons=true&hide_border=true&theme=transparent&title_color=6366f1&icon_color=6366f1&text_color=8b949e)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohsin&layout=compact&hide_border=true&theme=transparent&title_color=6366f1&text_color=8b949e)
+![Streak](https://streak-stats.demolab.com?user=dev-mohsin&hide_border=true&background=transparent&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e)
