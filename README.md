@@ -6,7 +6,7 @@ Building software since 2021 · freelancing since 2023.
 
 - **StudioDesk** · B2B SaaS for dev studios: clients, projects, proposals, invoices and a client portal
 - **[TabDeck](https://tabdeck-mohsin.web.app)** · see and control a Chrome window someone shares with you
-- **Swift Convert** · free online file converter, no signup, files never stored
+- **[Swift Convert](https://swiftconverter.io)** · free online file converter, no signup, files never stored
 - **Cue QR** · QR codes you can repoint after printing, Flutter app and web
 - **Lump** · sugar tracking that tells added from natural
 - **Pregnancy Calculator** · ten pregnancy and fertility calculators that run in the browser
