@@ -1,5 +1,7 @@
 ## Hi, I'm Mohsin
 
+Building software since 2019 · freelancing since 2023.
+
 Building **StudioDesk** — B2B SaaS for dev studios.
 
 **Stack:** TypeScript · Next.js · Supabase · Flutter
