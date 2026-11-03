@@ -12,7 +12,7 @@ Building software since 2021 · freelancing since 2023.
 - **Pregnancy Calculator** · ten pregnancy and fertility calculators that run in the browser
 - **[dev-disk-cleanup](https://github.com/dev-mohsin/dev-disk-cleanup)** · reclaims the macOS System Data space dev machines fill up
 
-**Stack:** TypeScript · Next.js · Supabase · Flutter
+**Stack:** TypeScript · Next.js · Flutter · Firebase · Supabase
 
 [![GitHub](https://img.shields.io/badge/-dev--mohsin-181717?logo=github&logoColor=white)](https://github.com/dev-mohsin)
 
